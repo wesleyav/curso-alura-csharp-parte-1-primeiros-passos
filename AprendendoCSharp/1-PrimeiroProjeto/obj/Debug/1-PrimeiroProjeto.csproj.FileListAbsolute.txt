@@ -1,0 +1,7 @@
+F:\ACELERA-DEVS\40-C# parte 1 Primeiros passos\curso-alura-csharp-parte-1-primeiros-passos\AprendendoCSharp\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.exe.config
+F:\ACELERA-DEVS\40-C# parte 1 Primeiros passos\curso-alura-csharp-parte-1-primeiros-passos\AprendendoCSharp\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.exe
+F:\ACELERA-DEVS\40-C# parte 1 Primeiros passos\curso-alura-csharp-parte-1-primeiros-passos\AprendendoCSharp\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.pdb
+F:\ACELERA-DEVS\40-C# parte 1 Primeiros passos\curso-alura-csharp-parte-1-primeiros-passos\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.csprojAssemblyReference.cache
+F:\ACELERA-DEVS\40-C# parte 1 Primeiros passos\curso-alura-csharp-parte-1-primeiros-passos\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.csproj.CoreCompileInputs.cache
+F:\ACELERA-DEVS\40-C# parte 1 Primeiros passos\curso-alura-csharp-parte-1-primeiros-passos\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.exe
+F:\ACELERA-DEVS\40-C# parte 1 Primeiros passos\curso-alura-csharp-parte-1-primeiros-passos\AprendendoCSharp\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.pdb
