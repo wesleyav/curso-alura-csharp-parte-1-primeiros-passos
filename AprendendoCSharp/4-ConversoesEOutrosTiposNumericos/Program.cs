@@ -10,7 +10,7 @@ namespace _4_ConversoesEOutrosTiposNumericos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Executando projeto 4 - Criando variaveis ponto flutuante");
+            Console.WriteLine("Executando projeto 4 - Conversões e outros tipos numéricos");
 
             double salario = 1200.50;
 
