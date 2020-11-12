@@ -10,7 +10,7 @@ namespace _8_Condicionais2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Executando projeto 7 - Condicionais");
+            Console.WriteLine("Executando projeto 8 - Condicionais2");
 
             int idadeJoao = 16;
             // int quantidadePessoas = 2;
